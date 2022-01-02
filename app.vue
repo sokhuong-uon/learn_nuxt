@@ -1,5 +1,5 @@
 <template>
   <div class="w-screen h-screen bg-gray-800">
-    Hello, world
+    <NuxtPage />
   </div>
 </template>
